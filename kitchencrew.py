@@ -4,10 +4,10 @@ week= 'N, S'
 week= raw_input('Is it an N or S week?')
 if week== 'N':
     for i in range(8):
-        names.pop[-2:]
-        offday_list.append[-2:]
-if week== 'S':
+        myvar= names.pop[-2:]
+        offday_list.append(myvar)
+elif week== 'S':
     for i in range(11):
-        names.pop[-2:]
-        offday_list.append[-2:]
+        myvars= names.pop[-2:]
+        offday_list.append(myvars)
 print week
