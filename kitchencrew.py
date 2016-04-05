@@ -1,4 +1,5 @@
 names= ['mike', 'bob', 'joel']
+print names
 offday_list=[]
 week= 'N, S'
 week= raw_input('Is it an N or S week?')
@@ -10,6 +11,6 @@ elif week== 'S':
     for i in range(4):
         myvars= names.pop(1)
         offday_list.append(myvars)
-print week
-print offday_list
-print names
+##print week
+##print offday_list
+##print names
