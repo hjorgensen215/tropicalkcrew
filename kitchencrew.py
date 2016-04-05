@@ -7,6 +7,7 @@ week= raw_input('Is it an N or S week?')
 if week== 'N':
     for i in range(8):
         myvar= names.pop(1)
+        print myvar
         offday_list.append(myvar)
 elif week== 'S':
     for i in range(11):
