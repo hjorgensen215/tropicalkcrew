@@ -1,6 +1,7 @@
 names= ['mike', 'bob', 'joel']
 print names
 offday_list=[]
+print offday_list
 week= 'N, S'
 week= raw_input('Is it an N or S week?')
 if week== 'N':
