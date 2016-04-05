@@ -1,4 +1,4 @@
-names= ['mike, bob, joel, hannah, cooper, cool, hip']
+names= ['mike', 'bob', 'joel']
 offday_list=[]
 week= 'N, S'
 week= raw_input('Is it an N or S week?')
